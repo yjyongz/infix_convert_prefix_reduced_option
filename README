@@ -6,3 +6,6 @@ you need to
 1) double-click compile.bat
 2) double-click run.bat
 3) output_without_r.txt/output_with_r.txt is the result. 
+//final step algorithm analysis
+//infix_to_prefex requires O(N) N is length of infix expression
+//evaluate functions requires O(N) where N is length of prefix expression
