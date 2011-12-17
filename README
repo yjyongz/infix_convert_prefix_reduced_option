@@ -1,1 +1,8 @@
 this is a converter to transform infix expression to the prefix representation, and evaluate its value.
+if you installed Visual Studio 2010, you need to set path environment (i
+attached picture),
+and there are two bat files. one is for compile.bat the other is run.bat
+you need to
+1) double-click compile.bat
+2) double-click run.bat
+3) output_without_r.txt/output_with_r.txt is the result. 
